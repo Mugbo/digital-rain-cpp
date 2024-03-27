@@ -34,7 +34,7 @@ As with the matrix screen, it utilizes the switches array to control the display
 
 <img src="https://raw.githubusercontent.com/Mugbo/digital-rain-cpp/main/docs/assets/images/squareScreenCode.png" width="400" height="300">
 
-Diverging from the linear cascade of characters, the square screen function introduces geometric shapes into the digital rain. By randomly positioning squares filled with characters across the screen, it adds an element of structural complexity to the visual output. This method involves generating a square by selecting a random starting point within the screen's dimensions and then filling the designated area with random characters, creating a solid square shape.
+The square screen function introduces geometric shapes into the digital rain. By randomly positioning squares filled with characters across the screen, it adds an element of structural complexity to the visual output. This method involves generating a square by selecting a random starting point within the screen's dimensions and then filling the designated area with random characters, creating a solid square shape.
 
 After displaying the square, the entire screen is cleared, and the process repeats, with the square moving downwards to simulate falling. This continual regeneration and movement of squares offer a unique take on the digital rain concept simulting raindrops falling on the screen.
 
